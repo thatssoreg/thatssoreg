@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620">
+  <rect width="1600" height="620" fill="#F3EBDD"/>
+  <rect x="0" y="0" width="1600" height="620" fill="#F04B17"/>
+  <rect x="0" y="0" width="120" height="620" fill="#11110F"/>
+  <text x="58" y="562" fill="#F3EBDD" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="4" transform="rotate(-90 58 562)">GATHER / ACCESS / CULTURE</text>
+  <text x="205" y="105" fill="#11110F" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="5">02 / SELECTED WORK</text>
+  <text x="195" y="300" fill="#11110F" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="150" font-weight="900">OENO</text>
+  <text x="195" y="456" fill="#11110F" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="150" font-weight="900">VERSE</text>
+  <circle cx="1195" cy="315" r="158" fill="#F3EBDD"/>
+  <circle cx="1195" cy="315" r="71" fill="#11110F"/>
+  <circle cx="1195" cy="88" r="36" fill="#11110F"/>
+  <circle cx="1390" cy="176" r="36" fill="#11110F"/>
+  <circle cx="1432" cy="390" r="36" fill="#11110F"/>
+  <circle cx="1266" cy="548" r="36" fill="#11110F"/>
+  <circle cx="1040" cy="510" r="36" fill="#11110F"/>
+  <circle cx="952" cy="306" r="36" fill="#11110F"/>
+  <circle cx="1021" cy="133" r="36" fill="#11110F"/>
+  <path d="M1040 315 C1055 240 1110 184 1195 172 C1280 184 1335 240 1350 315 C1335 390 1280 446 1195 458 C1110 446 1055 390 1040 315 Z" fill="none" stroke="#11110F" stroke-width="15"/>
+</svg>
