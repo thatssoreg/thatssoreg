@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620">
+  <rect width="1600" height="620" fill="#F3EBDD"/>
+  <rect x="0" y="0" width="475" height="620" fill="#11110F"/>
+  <rect x="72" y="62" width="120" height="72" fill="#F04B17"/>
+  <text x="94" y="108" fill="#11110F" font-family="Georgia, 'Times New Roman', serif" font-size="34">01</text>
+  <text x="72" y="184" fill="#F3EBDD" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4">SELECTED WORK</text>
+  <text x="72" y="525" fill="#F3EBDD" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">WINE / PLACE / TIME / RELATION</text>
+  <text x="544" y="260" fill="#11110F" font-family="Georgia, 'Times New Roman', serif" font-size="210">CARTA</text>
+  <line x1="555" y1="296" x2="1100" y2="296" stroke="#11110F" stroke-width="2"/>
+  <text x="557" y="336" fill="#11110F" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="4">SPATIAL-TEMPORAL WINE KNOWLEDGE</text>
+  <path d="M1165 118 C1250 80 1375 105 1453 164 C1513 209 1538 290 1480 343 C1432 387 1364 380 1321 434 C1286 478 1264 532 1189 552" fill="none" stroke="#F04B17" stroke-width="64" stroke-linecap="round"/>
+  <circle cx="1225" cy="175" r="13" fill="#11110F"/>
+  <circle cx="1392" cy="184" r="13" fill="#11110F"/>
+  <circle cx="1430" cy="316" r="13" fill="#11110F"/>
+  <circle cx="1317" cy="440" r="13" fill="#11110F"/>
+  <line x1="1225" y1="175" x2="1392" y2="184" stroke="#11110F" stroke-width="4"/>
+  <line x1="1392" y1="184" x2="1430" y2="316" stroke="#11110F" stroke-width="4"/>
+  <line x1="1430" y1="316" x2="1317" y2="440" stroke="#11110F" stroke-width="4"/>
+  <line x1="1317" y1="440" x2="1225" y2="175" stroke="#11110F" stroke-width="4"/>
+</svg>
